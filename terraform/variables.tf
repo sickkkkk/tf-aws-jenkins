@@ -1,0 +1,11 @@
+variable avail_zone1 {}
+variable avail_zone2 {}
+variable avail_zone3 {}
+variable ip_admin {}
+variable ecs_vpc_cidr {}
+variable ecs_subnet1_cidr {}
+variable ecs_subnet2_cidr {}
+variable ecs_subnet3_cidr {}
+variable image_jenkins_ecs_master {}
+variable r53_zone_id {}
+variable alb_alias {}
